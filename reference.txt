@@ -1,0 +1,3 @@
+https://help.ubuntu.com/community/OpenCV#CA-92a2290858c980de9ae77f07b319a56f82d2a776_2
+
+i have added some apps installation to the script that were missing in the reference.
